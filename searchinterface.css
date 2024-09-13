@@ -1,0 +1,43 @@
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+    font-family: "Montserrat", sans-serif;
+  }
+  body{
+    border-color: beige;
+    background-color:lightseagreen;
+     padding:30px;
+     align-items: center;
+  }
+  
+
+  
+  select{
+    width: 20%;
+    height:7vh;
+    border-radius: 30px;
+    padding:10px;
+    color:white;
+    background-color:purple;
+    margin-top: 30px;
+
+  }
+  option{
+    color:black;
+    background-color: white;
+  }
+  input{
+    width: 20%;
+    height:7vh;
+    border-radius: 30px;
+    padding:10px;
+    color:purple;
+    background-color:white;
+    margin-top: 20px;
+    display: flex;
+    position: relative;
+  }
+  
